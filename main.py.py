@@ -3,7 +3,6 @@ from scripts.revisiondatos import revision_datos
 from scripts.costo_mas_alto import costo_mas_alto
 from scripts.costo_mas_bajo import costo_mas_bajo
 from scripts.costo_paises_america import costo_vida_america
-import pandas as pd
 
 def main():
     
